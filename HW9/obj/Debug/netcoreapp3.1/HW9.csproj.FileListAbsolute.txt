@@ -1,0 +1,13 @@
+C:\Users\tommy\source\repos\HW9\HW9\obj\Debug\netcoreapp3.1\HW9.csprojAssemblyReference.cache
+C:\Users\tommy\source\repos\HW9\HW9\obj\Debug\netcoreapp3.1\HW9.AssemblyInfoInputs.cache
+C:\Users\tommy\source\repos\HW9\HW9\obj\Debug\netcoreapp3.1\HW9.AssemblyInfo.cs
+C:\Users\tommy\source\repos\HW9\HW9\obj\Debug\netcoreapp3.1\HW9.csproj.CoreCompileInputs.cache
+C:\Users\tommy\source\repos\HW9\HW9\bin\Debug\netcoreapp3.1\HW9.exe
+C:\Users\tommy\source\repos\HW9\HW9\bin\Debug\netcoreapp3.1\HW9.deps.json
+C:\Users\tommy\source\repos\HW9\HW9\bin\Debug\netcoreapp3.1\HW9.runtimeconfig.json
+C:\Users\tommy\source\repos\HW9\HW9\bin\Debug\netcoreapp3.1\HW9.runtimeconfig.dev.json
+C:\Users\tommy\source\repos\HW9\HW9\bin\Debug\netcoreapp3.1\HW9.dll
+C:\Users\tommy\source\repos\HW9\HW9\bin\Debug\netcoreapp3.1\HW9.pdb
+C:\Users\tommy\source\repos\HW9\HW9\obj\Debug\netcoreapp3.1\HW9.dll
+C:\Users\tommy\source\repos\HW9\HW9\obj\Debug\netcoreapp3.1\HW9.pdb
+C:\Users\tommy\source\repos\HW9\HW9\obj\Debug\netcoreapp3.1\HW9.genruntimeconfig.cache
